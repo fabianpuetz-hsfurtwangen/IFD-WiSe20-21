@@ -6,6 +6,6 @@ https://docs.google.com/presentation/d/1Ne3Paq2W-FKsZZToz5mWbKks7Gm6A9fWEtGESn9e
 
 <a href="IFD Aufgabe 1.pdf">Aufgabe 01: The Wallet project</a>
 
-<a href="Interface Design Aufgabe 2.1.txt">Aufgabe 2.1 MD-Datei: Prototyping Tool - Elementor</a>
+<a href="Interface Design Aufgabe 2.1.txt">Aufgabe 2.1 MD: Prototyping Tool - Elementor</a>
 
-<a href="Aufgabe 2 IFD.pdf">Aufgabe 2.1 Word-Datei: Prototyping Tool - Elementor</a>
+<a href="Aufgabe 2 IFD.pdf">Aufgabe 2.1 PDF: Prototyping Tool - Elementor</a>
