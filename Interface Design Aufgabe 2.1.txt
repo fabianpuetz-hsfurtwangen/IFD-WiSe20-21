@@ -1,0 +1,89 @@
+Aufgabe 2.1 Prototyping Tool – Fabian Pütz, OMB 5
+
+Prototyping-Tool Wordpress + Elementor
+
+Allgemeine Beschreibung:
+
+**Was ist Elementor, wie oft wird er benutzt?**
+
+Elementor ist der beliebteste Drag &amp; Drop Page Builder in Wordpress. Er wurde 2014 entwickelt und 2016 veröffentlicht.
+ Elementor bietet sowohl eine Free Version, als auch eine Pro Version an, welche mit einem Support und einer Vielzahl an zusätzlichen Optionen überzeugt.
+ Wie groß und mächtig Elementor ist, belegen diese Zahlen:
+
+- 4 Millionen Websites mit Elementor veröffentlicht
+- Über 1 Millionen Nutzer
+- Wird in 152 Ländern verwendet
+- In mehr als 50 Sprachen übersetzt
+
+**Was zeichnet Elementor aus?**
+
+Der eigentliche Sinn von Elementor ist nicht das Prototyping, sondern das unkomplizierte Erstellen und das Veröffentlichen von Websites.
+ Durch die sehr intuitive Bedienbarkeit des Tools, könnte man es meiner Meinung nach aber auch gut als reines Prototyping-Tool für Websites zu verwenden.
+
+Key Features von Elementor sind:
+
+- **Editor:** Mit dem Editor kann man live im Frontend an seiner Seite arbeiten. Mit 29 Widgets in der Free Version und 54 Widgets in der Pro Version sind für (fast) jedem Anwendungszweck passende Möglichkeiten vorhanden. Der Nutzer kann dabei beliebig Sektionen und Spalten erstellen und in diese dann per Drag &amp; Drop die Widgets ziehen. Das Ganze ist sehr intuitiv und einfach.
+- **Design:** Jede Sektion, jede Spalte und jedes Widget, lässt sich sehr individuell anpassen. So kann Beispielsweise die Schriftart, die Größe, die Farbe, die Hintergrundfarbe… und sogar Animationen per Klick und ohne Programmiererfahrung hinzugefügt, verändert oder entfernt werden. Falls diese sehr vielfältigen Optionen nicht ausreichen, kann man auch Code (z.B. CSS) miteinfügen, um die Elemente den eigenen Bedürfnissen anzupassen.
+- **Popup Builder:** Auch Popups können beliebig gestaltet und für verschiedene Actions des Nutzers eingefügt werden. Beispielsweise beim Benutzen eines Buttons.
+- **WooCommerce Builder:** Auch können Produkttemplates erstellt und gestaltet werden, was beispielsweise für einen Online Shop viel Sinn macht.
+- **Theme Builder:** Im Theme Builder können verschiedene Templates gebaut werden. Diese dienen als Vorlage für die Website und können bei Bedarf eingefügt werden. Beispielsweise kann ein Template für einen Header, einen Footer oder einen Abschnitt erstellt werden, welches dann auf verschiedenen Seiten eingefügt werden kann, ohne dass es neu gebaut werden muss.
+
+Soweit zu den Funktionalitäten, welche für die Erstellung eines Prototypes sinnvoll sein können. Elementor bietet noch deutlich mehr Möglichkeiten. Ich möchte auf diese aber jetzt nicht weiter eingehen, da ich untersuchen und beschreiben möchte, wie gut Elementor als Prototyping-Tool verwendet werden kann.
+
+Fidelty:
+
+**Kurze Anmerkung:** Ich möchte hier bewerten, wie gut sich das Tool für das Prototyping von Websites verwenden lässt. Für andere Anwendungen kann ich mir Elementor nicht vorstellen, da dies nicht den eigentlichen Verwendungszweck widerspiegelt.
+
+Das Fazit zuerst, ich werde danach genauer auf die 3 einzelnen Bereiche Interaktivität, Visualisierung und Inhaltsentwicklung eingehen. Die Reifegrade habe ich jeweils auf einer Skala von 1-5 angegeben.
+
+Interaktivität: 3/5
+
+Visualisierung: 4/5
+
+Inhaltsentwicklung: 5/5
+
+**Interaktivität:**
+
+Interaktive Websites zu erstellen, sind mit Elementor an sich kein Problem.
+ Einfache Dinge wie Dropdowns, Buttons, Slider, Anchors, Flipboxes, Tabs, oder sogar Formulare können sehr einfach mit wenigen Klicks hinzugefügt und bearbeitet werden.
+ Diese können dann meist per Hover oder Per Klick benutzt werden.
+ Problematischer wird es, wenn die Website komplexer werden soll. Hier stößt man mit Elementor allein schnell an seine Grenzen. Durch die sehr hohen Nutzerzahlen von Elementor sind in den letzten Jahren allerdings eine Vielzahl von kostenlosen, aber auch kostenpflichtigen Plugins und Addons entstanden, welche mit Elementor kompatibel sind. Mit Ihnen kann man dann speziellere Dinge umsetzen, wie beispielsweise Filter, welche die Interaktivitätsmöglichkeiten deutlich erhöhen. Ohne diese Plugins würde ich für die Interaktivität von Elementor allerdings nur 3/5 Punkte vergeben. Sobald es spezieller wird, werden Nutzer sehr schnell an Grenzen kommen, vor allem in der kostenlosen Version.
+
+**Visualisierung:**
+
+Die Möglichkeiten der Visualisierung sind bei Elementor ziemlich groß. Im Editor lassen sich per Drag &amp; Drop einfach Elemente in die zu gestaltende Fläche ziehen. Der Unterschied zu beispielsweise Adobe xD ist, dass die Elemente nachdem sie grob an der richtigen Stelle sind unter anderem über Margin/Padding exakt positioniert werden können. Dies kann in der Einheit Pixel geschehen, allerdings auch in anderen Maßangaben wie View-Width, View-Height oder %. So wird der ganze Prototyp mit allen Elementen direkt responsive. Neben der standartmäßigen Desktopansicht gibt es auch eine Mobile und eine Tablet Ansicht, in welcher auch editiert werden kann. Man kann die Elemente somit für verschiedene Ausgabegeräte sehr flexibel anpassen. Noch flexibler kann man dies auch über Media-Queries innerhalb von Elementor erreichen.
+ Wie bereits beschrieben, lassen sich alle Sektionen, Spalten und Elemente in Ihrem Design anpassen. Die Typografie, die Farben, die Größen und die Formen lassen sich sehr einfach verändern und individuell anpassen. Die Veränderungen, welche man vornimmt, kann man dabei live beobachten, was das Editieren deutlich vereinfacht. Um die Visualisierung zu beschleunigen, kann man globale Fonts und Farben einstellen, was für ein einheitliches Design auf der Seite sorgt.
+ Die Funktionen, mit welchen die Inhalte visualisiert werden, sind sehr sinnvoll gewählt und es ist nicht sonderlich schwer ein funktionierendes Design z.B. für eine Landingpage zu erstellen.
+ Für sehr außergewöhnliche Gestaltungswünsche kommt man mit Elementor ohne Programmierkenntnisse allerdings auch recht schnell an seine Grenzen. Im Vergleich zu Adobe xD beispielsweise, lassen sich die Elemente nicht so frei über die &quot;Zeichenfläche&quot; ziehen, wie der Nutzer das vielleicht gerne hätte. In Elementor lassen sich sehr einfach bestimmte Effekte wie z.B. Animationen einfügen, um die Blickrichtung des Nutzers zu lenken oder um wichtige Dinge zu unterstreichen.
+
+**Inhaltsentwicklung:**
+
+Texte und Überschriften lassen sich direkt in Elementor schreiben. Es lassen sich zudem auch HTML Tags wie h1-header vergeben, um eine geordnete Struktur herzustellen. Auch Bilder und Videos lassen sich sehr einfach hochladen und einbinden. Diese Art von Inhalten lassen sich nur beschränkt editieren (z.B. in der Größe oder mit einem Overlay), ich denke aber, dass man dies von einem Prototyping Tool auch nicht unbedingt erwarten muss. Vielmehr würde man sowas bearbeiten bevor es dann zu einem Tool wie Elementor hinzugefügt wird. Inhaltlich lassen sich neben so Standartmäßigen Dingen wie Bildern allerdings auch sehr ausgefallene Objekte integrieren, wie beispielsweise Google Maps. Schwierig wird es mit Elementor allein allerdings bei dynamischen Inhalten. Auch hier müsste man auf andere Plugins/Addons zurückgreifen. Da diese Dinge für mich dann aber schon eher in die Umsetzung als in den Prototyp gehören, gibt es an dieser Stelle trotzdem 5/5 Punkte für die Inhaltsentwicklung.
+
+Komplexität:
+
+Der Editor von Elementor ist für mich extrem intuitiv und wirklich ziemlich einfach zu bedienen. Wenn der Nutzer mit Wordpress vertraut ist, wird er kaum Probleme haben Elementor zu installieren und zu benutzen. Wenn es also um das reine Prototypen geht, sollte man nicht mehr als einen Tag Einarbeitungszeit brauchen, um einigermaßen vertraut zu werden mit dem Tool. Für Nutzer, die das erste Mal mit Wordpress arbeiten, wird es dagegen schon etwas komplizierter, da Elementor nur in diesem Zusammenhang genutzt werden kann und man sich erst etwas mit Wordpress auskennen sollte, bevor man sich mit Elementor vertraut macht. Durch die extrem hohe Zahl an Nutzern (sowohl für Wordpress, als auch für Elementor) gibt es allerdings auch sehr viele Hilfen um sich das ganze anzueignen. Eine gute Dokumentation von Elemetor selbst mit Videos und Texten, als auch eine Vielzahl von Youtubern und Facebookgruppen die sich mit dem Thema beschäftigen machen den Einstieg recht leicht. Abgerundet wird das ganze durch den Elementor-Support, welchen man in der Pro Version zur Verfügung hat.
+
+Beispiele
+
+Elementor zeigt in seinem Blog eine Auswahl an sehr gelungenen Websites, welche mit Elementor erstellt wurden:
+
+[https://elementor.com/blog/category/showcase/](https://elementor.com/blog/category/showcase/)
+
+Zu beachten ist, dass diese Seiten teilweise nicht nur mit Elementor, sondern auch mit anderen Plugins gebaut wurden. Elementor ist dabei aber immer der zentrale Bestandteil für die Gestaltung. Die anderen Plugins fokussieren sich eher auf die Website-Optimierung oder auch auf verschiedene Funktionalitäten.
+
+Ich selbst interessiere mich seit März diesen Jahres für das Thema Wordpress. Auf der Suche nach den für mein Projekt richtigen Plugins bin ich dabei auch relativ schnell bei Elementor gelandet.
+ Das Tool bereitet mir viel Spaß, allerdings benutze ich das Ganze nicht zur Erstellung eines Prototyps, sondern für die Umsetzung. Hier ein Link dazu:
+[https://easytravelvietnam.net/](https://easytravelvietnam.net/)
+(Die Seite ist aus rechtlichen Gründen normalerweise noch nicht online. Die nächste Woche würde ich sie jetzt aber einfach mal online lassen, damit Sie sich das bei Interesse anschauen können.
+ Das Design wird mit Elementor erzeugt, für die Funktionalitäten sind zusätzlich noch andere Plugins verantwortlich)
+ Wie Sie sehen, ist die Seite noch längst nicht fertig, es soll einfach ein kleiner Einblick sein, was mit Elementor möglich ist. Für mich funktioniert die Arbeit ohne offizielles Prototyping Tool sehr gut. Als Prototyp habe ich mir nur grobe Skizzen (die kann man nicht mal als Prototyp werten) verschiedener Seiten auf Papier gemacht und eine hierarchische Struktur der Seiten erstellt, um den Überblick zu behalten. Ich habe aber auch schon gehört, dass manche Leute ein klassisches Prototyping Tool wie Adobe xD vor die Umsetzung mit Elementor schalten, für mich kam diese Notwendigkeit allerdings noch nicht auf.
+
+Grenzen:
+
+Die Grenzen der 3 Bereiche Interaktivität, Visualisierung und Inhaltsentwicklung habe ich bereits versucht deutlich zu machen. Ich denke, wenn man Elementor wirklich als Prototyping Tool verwenden möchte, dann ist die Gefahr eher, dass man sich zu sehr verzettelt, da man so viele Möglichkeiten hat und wahrscheinlich immer recht stark auch zur Umsetzung tendieren wird. Wenn man nicht bereit ist die Pro Version zu kaufen, wird man von den Widgets allerdings schon ziemlich stark eingeschränkt. Für einige Seiten mag es reichen, wenn es komplizierter wird braucht man die Pro Version allerdings schon. Grenzen werden mit Elementor vor allem dann erreicht, wenn Anwendungen geschaffen werden sollen, welche mit einer Website wenig gemeinsam haben. Man muss einfach betonen, dass Elementor nicht für das Prototyping gedacht ist. Ich kann mir aber durchaus vorstellen, dass es für Websites in diesem Zusammenhang trotzdem als Prototyping Tool genutzt werden kann.
+
+Screencast zur Arbeit mit Elementor
+
+Um Ihnen die Arbeit mit Elementor noch etwas besser zu verdeutlichen, habe ich einen kleinen Screencast aufgenommen, bei dem ich eine kleine Seite zusammenbaue. Hier ist der Link dazu:
+[https://drive.google.com/file/d/1SlP-8vMW4G5HVqgyUQGfsRDb7y5oCERn/view?usp=sharing](https://drive.google.com/file/d/1SlP-8vMW4G5HVqgyUQGfsRDb7y5oCERn/view?usp=sharing)
