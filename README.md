@@ -13,3 +13,5 @@ https://docs.google.com/presentation/d/1Ne3Paq2W-FKsZZToz5mWbKks7Gm6A9fWEtGESn9e
 <a href="IFD Aufgabe 2.2.pdf">Aufgabe 2.2 PDF: Konzeptentwurf<a/>
   
 <a href="https://1p8w4f.axshare.com"> Aufgabe 3: Prototype<a/>
+  
+<a href="https://drive.google.com/file/d/1lfqvaGuaSpGQ1FOYGlRF2wEinG9fcumE/view?usp=sharing"> Aufgabe 4: Design Grundsätze und Heuristiken<a/>
