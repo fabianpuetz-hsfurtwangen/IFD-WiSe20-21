@@ -1,6 +1,6 @@
 Fabian Pütz, Interface Design, Hochschule Furtwangen, WiSe 2020/2021
 
-<a href="https://docs.google.com/presentation/d/1Ne3Paq2W-FKsZZToz5mWbKks7Gm6A9fWEtGESn9eIoM/edit?usp=sharing"<Aufgabe 00: SWOT-Analyse</a>
+<a href="https://docs.google.com/presentation/d/1Ne3Paq2W-FKsZZToz5mWbKks7Gm6A9fWEtGESn9eIoM/edit?usp=sharing">Aufgabe 00: SWOT-Analyse</a>
 
 <a href="IFD Aufgabe 1.pdf">Aufgabe 01: The Wallet project</a>
 
@@ -12,4 +12,4 @@ Fabian Pütz, Interface Design, Hochschule Furtwangen, WiSe 2020/2021
   
 <a href="https://1p8w4f.axshare.com"> Aufgabe 3: Prototype<a/>
   
-<a href="https://drive.google.com/file/d/1lfqvaGuaSpGQ1FOYGlRF2wEinG9fcumE/view?usp=sharing"> Aufgabe 4: Design Grundsätze und Heuristiken<a/>
+<a href="https://drive.google.com/file/d/1lfqvaGuaSpGQ1FOYGlRF2wEinG9fcumE/view?usp=sharing">Aufgabe 4: Design Grundsätze und Heuristiken<a/>
