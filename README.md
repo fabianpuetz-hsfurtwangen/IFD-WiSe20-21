@@ -19,3 +19,5 @@ Fabian Pütz, Interface Design, Hochschule Furtwangen, WiSe 2020/2021
 <a href="VR Cardboard Brille-konvertiert.pdf">Aufgabe 5: VR Brille </a>
 
 <a href="Aufgabe 9-konvertiert.pdf">Aufgabe 6: VR Anwendung Konzept + Prototype </a>
+
+<a href="https://app.draftxr.com/vr/YCgfGc"> Aufgabe 10 - VR Prototype (erstellt mit DraftXR)<a/>
